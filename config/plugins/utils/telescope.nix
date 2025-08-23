@@ -5,6 +5,18 @@
       file-browser = {
         enable = true;
       };
+      project = {
+        enable = true;
+      };
+      zoxide = {
+        enable = true;
+      };
+      undo = {
+        enable = true;
+      };
+      advanced-git-search = {
+        enable = true;
+      };
       fzf-native = {
         enable = true;
       };

@@ -1,0 +1,5 @@
+{
+  plugins.iron = {
+    enable = true;
+  };
+}
