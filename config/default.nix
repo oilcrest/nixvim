@@ -51,7 +51,7 @@ _: {
     # Utils
     ./plugins/utils/auto-save.nix
     ./plugins/utils/extra_plugins.nix
-    ./plugins/utils/hardtime.nix
+    #./plugins/utils/hardtime.nix
     ./plugins/utils/markdown-preview.nix
     ./plugins/utils/mini.nix
     ./plugins/utils/obsidian.nix
