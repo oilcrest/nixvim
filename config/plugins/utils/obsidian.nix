@@ -5,7 +5,7 @@
       workspaces = [
         {
           name = "SecondBrain";
-          path = "~/projects/personal/SecondBrain";
+          path = "~/Documents/Obsidian/Default";
         }
       ];
       templates = {
